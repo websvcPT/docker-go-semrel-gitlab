@@ -12,4 +12,5 @@ RUN printf '%s\n' \
     apt-get install -y --no-install-recommends \
         curl \
         jq \
+        ca-certificates \
     && rm -rf /var/lib/apt/lists/*
