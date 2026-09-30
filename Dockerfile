@@ -1,4 +1,5 @@
-FROM registry.gitlab.com/haynes/go-semrel-gitlab:v0.22.0
+# FROM registry.gitlab.com/haynes/go-semrel-gitlab:v0.22.0
+FROM registry.gitlab.com/juhani/go-semrel-gitlab:v0.22.0-mr-opt-in.3
 
 ENV DEBIAN_FRONTEND=noninteractive
 
