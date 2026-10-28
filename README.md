@@ -1,3 +1,7 @@
+**Project moved to https://gitlab.com/websvc/go-semrel-gitlab**
+
+Archived as of 2026-10-28
+
 # docker-go-semrel-gitlab
 
 go-semrel-gitlab docker refactor to include curl
